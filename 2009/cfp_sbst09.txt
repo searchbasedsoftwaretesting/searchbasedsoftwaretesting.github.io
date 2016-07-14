@@ -1,0 +1,89 @@
+CALL FOR PAPERS
+
+2nd International Workshop on Search-Based Software Testing (SBST'09)
+held in conjunction with International Conference on Software 
+Testing, Verification and Validation (ICST 2009)
+
+April 1, 2009, Denver, Colorado
+
+http://iaser.tek.bth.se/feldt/conferences/sbst09/
+
+Submission of papers: 9 January, 2009
+
+Papers will be published as a proceedings in the IEEE digital 
+library.  
+
+There will be prizes for the best paper (100EUR), best student 
+paper (1000EUR - One thousand Euros), and best presenter (100EUR).
+
+Search-based software testing is the use of random or directed 
+search techniques (hill climbing, genetic algorithms etc.) to 
+address problems in the software testing and verification and 
+validation domain. There has been an explosion of activity in the 
+search-based software testing field of late, particularly on test 
+data generation. Recent work has also focused on other aspects such 
+as model-based testing, real-time testing, interaction testing, 
+testing of service-oriented architectures, test case prioritization 
+and generation of whole tests (not only test data).
+
+Researchers and practitioners are invited to submit full papers (10 
+pages) to the workshop, describing original research, experience or 
+tools. We will also welcome extended abstracts (2 pages) with new 
+results (that may not yet have empirical support), position papers or 
+far-out ideas. Extended abstracts can also be written to describe 
+testing problems for which we can find search-based solutions during 
+the workshop. We will have a poster session where authors of extended 
+abstracts get feedback, but we will also discuss relevant extended 
+abstracts in the main session.
+
+Papers should address a problem in the software testing and/or 
+verification and validation domain and should approach the solution 
+to the problem using a search strategy. Search-based techniques are 
+taken to include (but are not limited to) random search, local search 
+(i.e. hill climbing, simulated annealing etc.), evolutionary 
+algorithms (i.e. genetic algorithms, evolution strategies, genetic 
+programming), ant colony optimization and particle swarm 
+optimization.
+
+While experimental results are important for research papers, 
+contributions that do not contain results, but rather present new 
+approaches, concepts and/or theory will also be considered. The 
+workshop will have a highly interactive format that encourages 
+discussion about the presented papers and about general themes in 
+search-based software testing.
+
+General chair: Phil McMinn  (p.mcminn@dcs.shef.ac.uk)
+Program chair: Robert Feldt (robert.feldt@bth.se)
+
+Program committee:
+  Thomas Arts, Quviq AB & IT University, Sweden
+  André Baresel, Q-viTECH, Germany
+  Leonardo Bottaci, University of Hull, UK
+  Koen Claessen, Chalmers University of Technology, Sweden
+  John Clark, University of York, UK
+  Myra Cohen, University of Nebraska-Lincoln, USA
+  Massimiliano Di Penta, University of Sannio, Italy
+  Volker Gruhn, University of Leipzig, Germany
+  Mark Harman, King's College, UK
+  Gregory Kapfhammer, Allegheny College, USA
+  Bogdan Korel, Illinois Institute of Technology, USA
+  Yvan Labiche, Carleton University, Canada
+  Paolo Tonella, Fondazione Bruno Kessler, Italy
+  Javier Tuya, tuya@uniovi.es, Universidad de Oviedo, Spain
+  Tanja Vos, Universidad Politecnica de Valencia, Spain
+  Joachim Wegener, Berner & Mattner Systemtechnik GmbH, Germany
+
+Important dates:
+Submission of papers: Friday 9 January, 2009
+Notification: Friday, 27 February, 2009
+Camera-Ready: Friday, 20 March, 2009
+Dates of Workshop: April 1, 2009
+
+For SBST'09 submission guidelines and all additional up 
+to date information, please visit 
+
+http://iaser.tek.bth.se/feldt/conferences/sbst09
+
+For ICST 2009 information, please visit
+
+http://bitterroot.vancouver.wsu.edu/icst2009/

@@ -1,0 +1,143 @@
+﻿	     @font-face {
+                font-family: 'PT Sans';
+                font-style: normal;
+                font-weight: 400;
+                src: local('PT Sans'), local('PTSans-Regular'), url(http://themes.googleusercontent.com/static/fonts/ptsans/v5/LKf8nhXsWg5ybwEGXk8UBQ.woff) format('woff');
+            }
+            @font-face {
+                font-family: 'PT Sans';
+                font-style: normal;
+                font-weight: 700;
+                src: local('PT Sans Bold'), local('PTSans-Bold'), url(http://themes.googleusercontent.com/static/fonts/ptsans/v5/0XxGQsSc1g4rdRdjJKZrNBsxEYwM7FgeyaSgU71cLG0.woff) format('woff');
+            }
+            @font-face {
+                font-family: 'PT Sans';
+                font-style: italic;
+                font-weight: 400;
+                src: local('PT Sans Italic'), local('PTSans-Italic'), url(http://themes.googleusercontent.com/static/fonts/ptsans/v5/PIPMHY90P7jtyjpXuZ2cLD8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+            }
+            @font-face {
+                font-family: 'PT Sans';
+                font-style: italic;
+                font-weight: 700;
+                src: local('PT Sans Bold Italic'), local('PTSans-BoldItalic'), url(http://themes.googleusercontent.com/static/fonts/ptsans/v5/lILlYDvubYemzYzN7GbLkHhCUOGz7vYGh680lGh-uXM.woff) format('woff');
+            }
+            @font-face {
+                font-family: 'PT Sans Narrow';
+                font-style: normal;
+                font-weight: 400;
+                src: local('PT Sans Narrow'), local('PTSans-Narrow'), url(http://themes.googleusercontent.com/static/fonts/ptsansnarrow/v4/UyYrYy3ltEffJV9QueSi4RdbPw3QSf9R-kE0EsQUn2A.woff) format('woff');
+            }
+            @font-face {
+                font-family: 'PT Sans Narrow';
+                font-style: normal;
+                font-weight: 700;
+                src: local('PT Sans Narrow Bold'), local('PTSans-NarrowBold'), url(http://themes.googleusercontent.com/static/fonts/ptsansnarrow/v4/Q_pTky3Sc3ubRibGToTAYiylde52zikAzebNtJS89aM.woff) format('woff');
+            }
+            #toptop{
+                height:500px;
+                background:rgba(255,255,255,0);
+                background-image:url('assets/imgs/hussain_sagar.jpg');
+                background-size: cover;
+                background-position: top left;
+                background-repeat: no-repeat;
+                overflow:hidden;
+            }
+            .navbar-nav>li>a{
+                padding-top:25px;
+                padding-bottom:25px;
+            }
+
+            #topinner{
+                background: rgb(52, 102, 141);
+                width: 100%;
+                height:100%;
+            }
+            .bigh1{
+                color:white; font-size:70px;
+            }
+
+            .event_location{
+                color:white;font-family:'PT Sans Narrow', 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size:32px;
+            }
+            .navbar-brand{
+                margin-top:10px;
+            }
+            .navbar-toggle{
+                margin-top:15px;
+            }
+            .event_name_beginner{
+                padding:1px 10px; background:rgba(255,255,255,0.4)
+            }
+
+            @media (max-width: 480px) {
+                .bigh1 {
+                    font-size: 2.5em;
+                }
+                .event_location{
+                    font-size:1.5em;
+                }
+            }
+						.talk_title{
+							font-style:italic;
+						}
+
+					.time-slot{
+						width:40%;
+						height:30px;
+					}
+					.schedule-table li{
+						border-bottom:2px solid #00bcf2;
+						/*padding:0 10px;*/
+					}
+					.schedule-buttons .btn{
+						border-bottom-left-radius:0;
+						border-bottom-right-radius:0;
+					}
+					.schedule-buttons .btn{
+						padding:15px;
+					}
+					#day_schedules ul .list-group-item:first-child{
+						border-top-right-radius: 0px;
+						border-top-left-radius: 0px;
+					}
+	
+	.bs-callout {
+margin: 20px 0;
+padding: 15px 30px 15px 15px;
+border-left: 5px solid #eee;
+}
+.bs-callout-info {
+background-color: #f0f7fd;
+border-color: #d0e3f0;
+}
+
+.bs-callout {
+  margin: 20px 0;
+  padding: 15px 30px 15px 15px;
+  border-left: 5px solid #eee;
+}
+.bs-callout h4 {
+  margin-top: 0;
+}
+.bs-callout p:last-child {
+  margin-bottom: 0;
+}
+.bs-callout code,
+.bs-callout .highlight {
+  background-color: #fff;
+}
+ 
+/* Themes for different contexts */
+.bs-callout-danger {
+  background-color: #fcf2f2;
+  border-color: #dFb5b4;
+}
+.bs-callout-warning {
+  background-color: #fefbed;
+  border-color: #f1e7bc;
+}
+.bs-callout-info {
+  background-color: #f0f7fd;
+  border-color: #d0e3f0;
+}

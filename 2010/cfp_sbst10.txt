@@ -1,0 +1,65 @@
+3rd International Workshop on Search-Based Software Testing (SBST'10)
+held in conjunction with International Conference on Software
+Testing, Verification and Validation (ICST 2010)
+
+April 6, 2010, Paris, France
+
+http://www.cse.unl.edu/~myra/sbst2010/
+
+Submission of papers: 9th February, 2010
+
+Papers will be published as a proceedings in the IEEE digital
+library.
+
+Search-based software testing is the use of random or directed
+search techniques (hill climbing, genetic algorithms etc.) to
+address problems in the software testing and verification and
+validation domain. There has been an explosion of activity in the
+search-based software testing field of late, particularly on test
+data generation. Recent work has also focused on other aspects such
+as model-based testing, real-time testing, interaction testing,
+testing of service-oriented architectures, test case prioritization,
+bug fixing and generation of whole tests (not only test data).
+
+Researchers and practitioners are invited to submit short (4 pages)
+or full papers (10 pages) to the workshop, describing original research,
+experience or tools.
+
+Papers should address a problem in the software testing and/or
+verification and validation domain and should approach the solution
+to the problem using a search strategy. Search-based techniques are
+taken to include (but are not limited to) random search, local search
+(i.e. hill climbing, simulated annealing etc.), evolutionary
+algorithms (i.e. genetic algorithms, evolution strategies, genetic
+programming), ant colony optimization and particle swarm
+optimization.
+
+While experimental results are important for research papers,
+contributions that do not contain results, but rather present new
+approaches, concepts and/or theory will also be considered. The
+workshop will have a highly interactive format that encourages
+discussion about the presented papers and about general themes in
+search-based software testing.
+
+There will be prizes available for best papers; more information
+on the workshop home page.
+
+General chair: Robert Feldt (robert.feldt@gmail.com)
+Program chair: Myra Cohen   (myra@cse.unl.edu)
+
+Program committee: See home page
+
+Important dates:
+Submission of papers:	February 9th, 2010
+Notification: 		March 5, 2010
+Camera-Ready: 		March 19, 2010
+Date of Workshop: 	April 6, 2009
+
+For SBST'10 submission guidelines and all additional up
+to date information, please visit
+
+http://www.cse.unl.edu/~myra/sbst2010/
+
+For ICST 2010 information, please visit
+
+http://vps.it-sudparis.eu/icst2010/

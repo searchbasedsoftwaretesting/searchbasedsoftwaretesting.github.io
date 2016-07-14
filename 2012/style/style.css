@@ -1,0 +1,101 @@
+body { 
+	color: #334433; 
+	background: white; 
+	font-family: verdana, arial, sans-serif;
+	font-size: 10pt;
+}
+	
+h2 {
+	color: #002BA6;
+	font-family: trebuchet ms, arial, serif;
+	font-size: 18pt;
+	font-weight: normal;
+}
+
+	
+h3 {
+	color: #002BA6;
+	font-family: trebuchet ms, arial, serif;
+	font-size: 18pt;
+	font-weight: normal;
+}
+
+a, a:visited, a.active {
+	color: #330000;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+div.contentStrip a {
+	font-family: trebuchet ms, arial, serif;
+	font-size: 11pt;
+}
+
+div#logo {
+  height: 158px;
+}
+
+h1#lg {
+	color: #003344;
+	font-family: times, arial, serif;
+	font-size: 14pt;
+	font-weight: normal;
+    padding: 0px; margin: 0px; 
+}
+
+h1#lb {
+	color: #002BA6;
+	font-family: times, arial, serif;
+	font-size: 40pt;
+	font-weight: normal;
+    padding: 0px; margin: 0px; 
+}
+
+h1#logo {
+  width: 647px; 
+  height: 148px; 
+  padding: 0px; margin: 0px; 
+  position: absolute; 
+  text-indent: -1000em; 
+  text-decoration: none; 
+  text-align: left
+}
+
+.hr {
+  background:transparent; 
+  border-top:1px dotted #000000; 
+  width:100%; 
+  height: 1px;
+}
+
+img.rightImage {
+  border: 1px solid #000000; 
+  margin: 5px 0px 5px 0px
+}
+
+div#imagePanel1 {
+  float: right; 
+  width: 210px;
+  height: 270px;
+  background: url('http://bitterroot.vancouver.wsu.edu/icst2009/images/rockies.jpg') 10px 10px no-repeat;  
+}
+
+div#imagePanel2 {
+  float: right; 
+  width: 210px;
+  height: 270px;
+  background: url('http://vps.it-sudparis.eu/icst2010/icst2010v4_fichiers/image016.gif') 10px 10px no-repeat;  
+}
+
+div.contentStrip {
+  margin: 5px 0px 5px 5px;
+}
+
+div.contentPanel {
+  margin: 5px 25px 5px 25px;
+}
+

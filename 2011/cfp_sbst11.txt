@@ -1,0 +1,63 @@
+4th International Workshop on Search-Based Software Testing (SBST'11)
+held in conjunction with International Conference on Software
+Testing, Verification and Validation (ICST 2011)
+
+March, 2011, Berlin, Germany
+
+http://simula.no/~arcuri/sbst11/index.html
+
+Submission of papers:	5th January, 2011
+
+Papers will be published as a proceedings in the IEEE digital
+library.
+
+Search-based software testing is the use of random or directed
+search techniques (hill climbing, genetic algorithms etc.) to
+address problems in the software testing and verification and
+validation domain. There has been an explosion of activity in the
+search-based software testing field of late, particularly on test
+data generation. Recent work has also focused on other aspects such
+as model-based testing, real-time testing, interaction testing,
+testing of service-oriented architectures, test case prioritization,
+bug fixing and generation of whole tests (not only test data).
+
+Researchers and practitioners are invited to submit short (4 pages)
+or full papers (10 pages) to the workshop, describing original research,
+experience or tools.
+
+Papers should address a problem in the software testing and/or
+verification and validation domain and should approach the solution
+to the problem using a search strategy. Search-based techniques are
+taken to include (but are not limited to) random search, local search
+(i.e. hill climbing, simulated annealing etc.), evolutionary
+algorithms (i.e. genetic algorithms, evolution strategies, genetic
+programming), ant colony optimization and particle swarm
+optimization.
+
+While experimental results are important for research papers,
+contributions that do not contain results, but rather present new
+approaches, concepts and/or theory will also be considered. The
+workshop will have a highly interactive format that encourages
+discussion about the presented papers and about general themes in
+search-based software testing.
+
+
+
+General chair: Myra Cohen   (myra@cse.unl.edu)
+Program chair: Andrea Arcuri   (arcuri@simula.no)
+
+Program committee: See home page
+
+Important dates:
+Submission of papers:	5th January, 2011
+Notification: 		1st February, 2011
+Date of Workshop: 	during ICST, March 21st-25th 2011
+
+For SBST'11 submission guidelines and all additional up
+to date information, please visit
+
+http://simula.no/~arcuri/sbst11/index.html
+
+For ICST 2011 information, please visit
+
+http://sites.google.com/site/icst2011/home
