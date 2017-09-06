@@ -1,4 +1,3 @@
-<?php if (substr_count($_SERVER['HTTP_ACCEPT_ENCODING'], 'gzip')) ob_start("ob_gzhandler"); else ob_start(); ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -210,78 +209,6 @@ and members of the ACM/IEEE are entitled to reduced fees.</div> */?>
             </div>
 
         </div> <!-- /container -->
-
-
-<?php /*
-        <div class="container" id="call">
-
-            <!-- Main component for a primary marketing message or call to action -->
-            <div class="jumbotron">
-                <h2>Call for Papers <small><a href="cfp.pdf">(View in PDF)</a></small></h2>
-
-                <p>Researchers and practitioners are invited to submit:
-                <ul>
-                    <li><span style="text-decoration: line-through">Full papers (maximum of 10 pages)<!-- to the workshop on original research--either empirical or theoretical--in SBST, practical experience of using SBST, or SBST tools.--></span>  (Deadline passed)</li>
-                    <li><span style="text-decoration: line-through">Short papers (maximum of 4 pages)<!-- that describe novel techniques, ideas and positions that have yet to be fully developed; or are a discussion of the importance of a recently published SBST result by another author in setting a direction for the SBST community, and/or the potential applicability (or not) of the result in an industrial context.--></span>  (Deadline passed)</li>
-                    <li><span style="text-decoration: line-through">PhD papers (maximum of 4 pages)<!-- PhD papers are invited for students to showcase their SBST research and to receive feedback from senior members of the SBST community. Papers
-submitted to this track should be no more than 4 pages in length. To be eligible, a student must be registered on a doctoral or masters programme and must not yet have
-completed their studies. It is the expectation that the student will give the presentation at the symposium, though there may be other authors on the paper. Papers need not contain a complete work, although initial experimental results would be very welcome. This would be an ideal venue for PhD students to present and discuss their research agenda in the company of leading experts in the domain.--></span>  (Deadline passed)</li>
-                    <li>Position &amp; Discussion papers (maximum of 2 pages), that describe a position on SBST,  or, raise an issue of importance. Papers will be reviewed with respect to relevance and their ability to spark discussions. <strong>(Deadline: 14th Feb)</strong> </li>
-                </ul>
-
-                <p>In all cases, papers should address a problem in the software testing/verification/validation domain or combine elements of those domains with other concerns in the software engineering lifecycle.  Examples of problems in the software testing/verification/validation domain include (but are not limited to) generating testing data, prioritizing test cases, minimizing test suites, verifying software models, testing service-orientated architectures, constructing test suits for interaction testing, and validating real-time properties.</p>
-
-                <p>The solution should apply a metaheuristic search strategy such as (but not limited to) random search, local search (e.g. hill climbing, simulated annealing, and tabu search), evolutionary algorithms (e.g. genetic algorithms, evolution strategies, and genetic programming), ant colony optimization, and particle swarm optimization.</p>
-
-
-            </div>
-
-        </div> <!-- /container -->
-*/ ?>
-<? /*
-        <div class="container" id="submission">
-
-            <!-- Main component for a primary marketing message or call to action -->
-            <div class="jumbotron">
-			
-			<?php /*
-                <h2>Abstracts</h2>
-                <p>Friday January 24, 2014</p>
-<hr style="border-top-color:#CBD7E0">
-                <h2>Completed Paper</h2>
-                <p>Friday January 31, 2014</p>
-<hr style="border-top-color:#CBD7E0">
-*/ /* ?>
-				<h2>Submission and Format:</h2>
-
-                <p>All papers must conform, at time of submission, to the <a href="http://www.acm.org/sigs/publications/proceedings-templates">ACM Formatting Guidelines</a> (LaTeX users, please use the "Option 2" style). All submissions must be in PDF format.  Details on where to submit your papers will appear here shortly.</p>
-				<hr style="border-top-color:#CBD7E0">
-				<a class="btn btn-lg btn-block btn-info" href="https://www.easychair.org/conferences/?conf=sbst2014" title="Click here to submit">Submission Link - EasyChair</a>
-            </div>
-
-        </div> <!-- /container -->
-*/ ?>
-
-<? /*
-        <div class="container" id="dates">
-
-            <!-- Main component for a primary marketing message or call to action -->
-            <div class="jumbotron">
-                <h2>Dates</h2>
-                <p>
-<ul class="list-group">
-	<li class="list-group-item">Abstract Submission: January 24, 2014</li>
-	<li class="list-group-item">Complete Paper Submission: January 31, 2014</li>
-    <li class="list-group-item">Author Notification: February 24, 2014</li>
-	<li class="list-group-item">Camera-Ready: March 14, 2014</li>
-	<li class="list-group-item">Workshop: June 2 - June 3, 2014</li>
-</ul>
-								</p>
-            </div>
-
-        </div> <!-- /container -->
-*/ ?>
-
 
 
 <div class="" style="margin-bottom: 50px;
