@@ -1,0 +1,4 @@
+[submodule "2019/website/public"]
+	path = 2019/website/public
+	url = git@github.com:sbst19/sbst19.github.io.git
+	branch = master
