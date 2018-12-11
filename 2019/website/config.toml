@@ -1,0 +1,48 @@
+theme = "hugo-now-ui"
+baseurl = "/"
+languageCode = "en-us"
+title = "Search-Based Software Testing"
+description = "SBST"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+
+
+[[menu.main]]
+    name = "Organisation"
+    url = "/organisation/"
+    pre = "<i class='fa fa-group'></i>"
+    weight = 1
+[[menu.main]]
+    name = "Tool Competition"
+    url = "/tools/"
+    pre = "<i class='fa fa-bug'></i>"
+    weight = 1
+[[menu.main]]
+    name = "Program"
+    pre = "<i class='now-ui-icons ui-1_calendar-60'></i>"
+    url = "/program/"
+    weight = 2
+[[menu.main]]
+    name = "Venue"
+    url = "/venue/"
+    pre = "<i class='now-ui-icons business_bank'></i>"
+    weight = 2
+    
+[[menu.footer]]
+    identifier = "copyright"
+    name = "SBST'19"
+    pre = "<i class='fa fa-balance-scale'></i>"
+    weight = 3
+
+
+[params]
+    custom_css = ["css/highlight.min.css"]
+    custom_js = []
+    date_format = "Mon, Jan 2, 2006"
+    tint = "blue"
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.10.0"
+    highlightCDN = "//cdn.bootcss.com"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
