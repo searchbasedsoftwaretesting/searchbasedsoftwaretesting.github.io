@@ -18,11 +18,11 @@ description:  |
                         <div class="col-md-4">
                             <h4>Important Dates</h4>
 			    <p>The workshop will adhere to the general <a href="https://2019.icse-conferences.org/track/icse-2019-Workshops">ICSE workshop dates</a> (AOE):</p>
-                            <p>Paper Submission<br>Fri 1 Feb 2019</p>
+                            <p><a href="https://easychair.org/my/conference.cgi?conf=sbst2019">Paper Submission</a><br>Fri 1 Feb 2019</p>
                             <p>Notification to Authors<br>Fri 1 Mar 2019</p>
                             <p>Camera Ready Due<br>Fri 15 Mar 2019</p>
 			    <h4>Submission Guidelines</h4>
-			    <p>All submissions must conform to the <a href="https://2019.icse-conferences.org/track/icse-2019-Technical-Papers#Call-for-Papers">ICSE 2019 formatting and submission instructions</a>. All submissions must be anonymized, in PDF format and should be performed electronically through EasyChair.</p>
+			    <p>All submissions must conform to the <a href="https://2019.icse-conferences.org/track/icse-2019-Technical-Papers#Call-for-Papers">ICSE 2019 formatting and submission instructions</a>. All submissions must be anonymized, in PDF format and should be performed electronically through EasyChair.</p><p>Submission site: <a href="https://easychair.org/my/conference.cgi?conf=sbst2019">https://easychair.org/my/conference.cgi?conf=sbst2019</a></p>
                         </div>
                         <div class="col-md-8">
 			<h4>Call for Papers</h4>
