@@ -18,7 +18,7 @@ description:  |
                         <div class="col-md-4">
                             <h4>Important Dates</h4>
 			    <p>The workshop will adhere to the general <a href="https://2019.icse-conferences.org/track/icse-2019-Workshops">ICSE workshop dates</a> (AOE):</p>
-                            <p><a href="https://easychair.org/my/conference.cgi?conf=sbst2019">Paper Submission</a><br>Fri 1 Feb 2019</p>
+                            <p><a href="https://easychair.org/my/conference.cgi?conf=sbst2019">Paper Submission</a><br><s>Fri 1 Feb 2019</s><br><em>Fri 10 Feb 2019</em></p>
                             <p>Notification to Authors<br>Fri 1 Mar 2019</p>
                             <p>Camera Ready Due<br>Fri 15 Mar 2019</p>
 			    <h4>Submission Guidelines</h4>
