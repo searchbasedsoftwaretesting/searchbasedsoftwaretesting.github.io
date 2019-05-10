@@ -19,6 +19,11 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     pre = "<i class='fa fa-bug'></i>"
     weight = 1
 [[menu.main]]
+    name = "Keynotes & Tutorial"
+    pre = "<i class='now-ui-icons ui-1_calendar-60'></i>"
+    url = "/keynotes/"
+    weight = 2
+[[menu.main]]
     name = "Program"
     pre = "<i class='now-ui-icons ui-1_calendar-60'></i>"
     url = "/program/"
@@ -28,7 +33,7 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     url = "/venue/"
     pre = "<i class='now-ui-icons business_bank'></i>"
     weight = 2
-    
+
 [[menu.footer]]
     identifier = "copyright"
     name = "SBST'19"
@@ -37,7 +42,7 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
 
 [params]
-    custom_css = ["css/highlight.min.css"]
+    custom_css = ["css/highlight.min.css", "css/sbst.css"]
     custom_js = []
     date_format = "Mon, Jan 2, 2006"
     tint = "blue"
