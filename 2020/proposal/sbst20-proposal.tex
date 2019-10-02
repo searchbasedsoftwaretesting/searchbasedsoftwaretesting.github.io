@@ -1,7 +1,7 @@
-\documentclass[10pt,conference]{IEEEtran}
-\IEEEoverridecommandlockouts
+%\documentclass[10pt,conference]{IEEEtran}
+\documentclass[sigconf,review]{acmart}
 % The preceding line is only needed to identify funding in the first footnote. If that is unneeded, please comment it out.
-\usepackage{cite}
+%\usepackage{cite}
 \usepackage{amsmath,amssymb,amsfonts}
 %\usepackage{algorithmic}
 \usepackage{graphicx}
@@ -37,17 +37,19 @@
 \title{Search-Based Software Testing (SBST) \\ ICSE 2020 Workshop Proposal}
 
 
+\author{Jos\'e Miguel Rojas}
+\affiliation{%
+  \institution{School of Informatics, University of Leicester}
+  \city{Leicester}
+  \country{United Kingdom}}
+\email{j.rojas@leicester.ac.uk}
 
-\author{\IEEEauthorblockN{ Jos\'e Miguel Rojas}
-\IEEEauthorblockA{\textit{Department of Informatics, University of Leicester}\\
-  Leicester, United Kingdom}
-\and
-\IEEEauthorblockN{ Erik M. Fredericks}
-\IEEEauthorblockA{\textit{Dept. of Computer Science \& Engineering, Oakland University}\\
-  Rochester, MI, USA}
-}
-
-\maketitle
+\author{Erik M. Fredericks}
+\affiliation{%
+  \institution{Dept. of Computer Science \& Engineering, Oakland University}
+  \city{Rochester, MI}
+  \country{USA}}
+\email{fredericks@oakland.edu}
 
 \begin{abstract}
   There is a growing realization that optimization techniques can be
@@ -85,6 +87,9 @@
 %component, formatting, style, styling, insert
 %\end{IEEEkeywords}
 
+
+\maketitle
+
 \section{Thoughts}
 
 \begin{itemize}
@@ -96,7 +101,7 @@
 \section{Contact Information}
 
 \noindent \textbf{Jos\'e Miguel Rojas}. Address:
-Department of Informatics, University of Leicester, University Road,
+School of Informatics, University of Leicester, University Road,
 LE1 7RH, Leicester, United Kingdom. Phone: +44 (0) 116 252
 3828. Email: \url{j.rojas@leicester.ac.uk}.\\
 \textbf{Erik M. Fredericks (main contact person)}. Address:
@@ -118,8 +123,7 @@ SBSE. The potential of SBST to be applied to a vast number of open
 complex testing problems (e.g., autonomous driving
 functions~\cite{Abdessalem2018}) is increasingly evident. Furthermore,
 the recent industrial-scale impact of the Sapienz tool~\cite{Sapienz}
-at Facebook% ~\cite{SapienzFB}
-showcases the capabilities and potential
+at Facebook showcases the capabilities and potential
 of SBST and helps as motivation for the community to continue to work
 on SBST techniques and tools.
 
@@ -313,8 +317,8 @@ researchers whose focus is to build industrial SBST tools.
 recent editions of the workshop. Following Gordon Fraser (2016),
 Lionel Briand (2017), Andrea Arcuri (2018), and Nadia Alshahwan (2019), 
 we have preliminary acceptance from Matías Martínez to present his work on 
-Astor, an automated fault repair framework, and how its techniques may be incorporated
-into the SBST domain..
+Astor~\cite{Astor}, an automated fault repair framework, and how its techniques may be incorporated
+into the SBST domain.
 
 %\vspace{1mm} \noindent
 %{\bf Discussion Panel.}  We plan to hold a discussion panel entitled ``Will Test Generation be a must-have programming skill by 2027?''. We will have a discussion on whether programmers will be proficient in automatic testing techniques (and search-based approaches in particular) in the next decade.  Invited software engineering experts will provide their positions on the topic and  questions will be invited from the audience.  We are currently securing panelists from a wide spectrum of candidates. {\bf Nikolai Tillman} (Microsoft Research) and {\bf Andreas Zeller}  (Saarland University) have already agreed to be on the panel.
@@ -386,9 +390,9 @@ whiteboard would be useful for recording discussion or making
 announcements.
 
 %---------------------------------------------------------------------
-% \section{Target Audience}
+\section{Target Audience}
 
-\section{Participant Solicitation}
+%\section{Participant Solicitation}
 
 We intend to run an open workshop, in which papers will be solicited
 for presentation.  We plan to make a call for full papers, short
@@ -423,7 +427,7 @@ Sweden, attracted approximately 30 participants.
 %---------------------------------------------------------------------
 \section{Proceedings}
 
-\subsection{Expected Contributions}
+\subsection{Type of Contributions}
 
 We expect to accept 12--16 papers comprising of full papers (8 pages),
 short papers (4 pages), position papers (2 pages) and competition
@@ -478,7 +482,7 @@ have been served as PC members in previous editions of the workshop:
 \end{itemize}
 }
  
-\subsection{Website}
+\subsection{Preliminary Website}
 
 The website of the proposed workshop will be at:\\\centerline{\url{http://www.searchbasedsoftwaretesting.org/2020}}.
 
@@ -506,7 +510,7 @@ Ed. & Website \\\midrule
 %\TODO{Is there any record of number of attendees?}
 
 %---------------------------------------------------------------------
-\section{Proposers' Bios}
+\section{Organizers’ bios}
 
 {\bf Jos\'e Miguel Rojas} is an Assistant Professor (Lecturer) at the
 University of Leicester, United Kingdom. Previously, he was a Research
@@ -519,8 +523,9 @@ engineering, automated software testing, and software engineering
 education. His work has been published in the top venues of logic
 programming (ICLP), software engineering (ICSE and ASE), software
 testing (ISSTA and ICST) and search-based software engineering (SSBSE
-and GECCO). He has co-chaired the MUTATION 2017 and MUTATION 2018
-workshops and the SSBSE 2018 Challenge Track.
+and GECCO). He has co-chaired multiple workshops and tracks: MUTATION
+2017, MUTATION 2018, SSBSE 2018 Challenge Track, SBST 2019 (co-located
+with ICSE 2019).
 
 {\bf Erik Fredericks} is an Assistant Professor at Oakland University
 in Rochester, MI, USA.  He received his Ph.D. from Michigan State University in
@@ -546,7 +551,8 @@ served as web co-chair of ICSE 2013, and regularly serves as a program committee
 % support keynote registration, and cover costs for the social event.
 
 %\IEEEtriggeratref{12}
-\bibliographystyle{IEEEtran}
+%\bibliographystyle{IEEEtran}
+\bibliographystyle{ACM-Reference-Format}
 \bibliography{slice,mcminn,sbst}
 
 % Generated by IEEEtran.bst, version: 1.14 (2015/08/26)
