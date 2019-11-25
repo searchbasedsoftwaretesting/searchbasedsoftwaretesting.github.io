@@ -1,0 +1,221 @@
+% This is "sig-alternate.tex" V2.0 May 2012
+% This file should be compiled with V2.5 of "sig-alternate.cls" May 2012
+%
+% This example file demonstrates the use of the 'sig-alternate.cls'
+% V2.5 LaTeX2e document class file. It is for those submitting
+% articles to ACM Conference Proceedings WHO DO NOT WISH TO
+% STRICTLY ADHERE TO THE SIGS (PUBS-BOARD-ENDORSED) STYLE.
+% The 'sig-alternate.cls' file will produce a similar-looking,
+% albeit, 'tighter' paper resulting in, invariably, fewer pages.
+%
+% ----------------------------------------------------------------------------------------------------------------
+% This .tex file (and associated .cls V2.5) produces:
+%       1) The Permission Statement
+%       2) The Conference (location) Info information
+%       3) The Copyright Line with ACM data
+%       4) NO page numbers
+%
+% as against the acm_proc_article-sp.cls file which
+% DOES NOT produce 1) thru' 3) above.
+%
+% Using 'sig-alternate.cls' you have control, however, from within
+% the source .tex file, over both the CopyrightYear
+% (defaulted to 200X) and the ACM Copyright Data
+% (defaulted to X-XXXXX-XX-X/XX/XX).
+% e.g.
+% \CopyrightYear{2007} will cause 2007 to appear in the copyright line.
+% \crdata{0-12345-67-8/90/12} will cause 0-12345-67-8/90/12 to appear in the copyright line.
+%
+% ---------------------------------------------------------------------------------------------------------------
+% This .tex source is an example which *does* use
+% the .bib file (from which the .bbl file % is produced).
+% REMEMBER HOWEVER: After having produced the .bbl file,
+% and prior to final submission, you *NEED* to 'insert'
+% your .bbl file into your source .tex file so as to provide
+% ONE 'self-contained' source file.
+%
+% ================= IF YOU HAVE QUESTIONS =======================
+% Questions regarding the SIGS styles, SIGS policies and
+% procedures, Conferences etc. should be sent to
+% Adrienne Griscti (griscti@acm.org)
+%
+% Technical questions _only_ to
+% Gerald Murray (murray@hq.acm.org)
+% ===============================================================
+%
+% For tracking purposes - this is V2.0 - May 2012
+\documentclass[10pt,conference]{IEEEtran}
+
+% Set letter paper size:
+\setlength{\paperheight}{11in}
+\setlength{\paperwidth}{8.5in}
+\usepackage[
+  pass,% keep layout unchanged
+  % showframe,% show the layout
+]{geometry}
+
+\usepackage{hyperref}
+\usepackage{color}
+\usepackage{graphicx}
+\usepackage{url}
+\usepackage{float}
+
+%\usepackage{epsfig, verbatim, latexsym, multicol, lscape, alltt}
+\newcommand{\subheading}[1]{\vspace{1mm} \noindent {\bf #1}}
+
+\hyphenation{Aca-de-my}
+
+\title{SBST 2020\\Draft Call for Submissions}
+
+\begin{document}
+\maketitle
+
+
+% \begin{figure*}[h!]
+% \begin{center}
+% \includegraphics[width=\textwidth]{header-18.png}
+% \end{center}
+% \end{figure*}
+
+
+% Another LATEX2? limitation (patched with stfloats or not) is that double column floats will not appear on the same page where they are defined. So, the user will have to define such things prior to the page on which they are to (possibly) appear.
+% \newpage
+
+% So I added this dummy page at the beginning
+% \newpage
+
+\noindent\textbf{About the Workshop}
+
+
+
+\smallskip\noindent Search-Based Software Testing (SBST) is the
+application of optimizing search techniques (for example, Genetic
+Algorithms) to solve problems in software testing. SBST is used to
+generate test data, prioritize test cases, minimize test suites,
+optimize software test oracles, reduce human oracle cost, verify
+software models, test service-orientated architectures, construct test
+suites for interaction testing, and validate real-time properties
+(among others).
+
+\smallskip\noindent The objectives of this workshop are to bring
+together researchers and industrial practitioners both from SBST and
+the wider software engineering community to collaborate, to share
+experience, to provide directions for future research, and to
+encourage the use of search techniques in novel aspects of software
+testing in combination with other aspects of the software engineering
+lifecycle.
+
+
+
+
+
+\smallskip\noindent\textbf{Keynote Speakers}
+\begin{itemize}
+\setlength{\itemsep}{1pt}
+  \setlength{\parskip}{0pt}
+  \setlength{\parsep}{0pt}
+\item{TBC}
+\item{TBC}
+\end{itemize}
+
+\smallskip\noindent\textbf{Tutorial}
+\begin{itemize}
+\setlength{\itemsep}{1pt}
+  \setlength{\parskip}{0pt}
+  \setlength{\parsep}{0pt}
+\item{Matias Martinez - ASTOR\newline
+(Universit{\'e} Polytechnique Hauts-de-France, France)}
+\end{itemize}
+
+
+\smallskip\noindent\textbf{Workshop Organizers}
+\begin{itemize}
+\setlength{\itemsep}{1pt}
+  \setlength{\parskip}{0pt}
+  \setlength{\parsep}{0pt}
+\item{Jos{\'e} Miguel Rojas, Program Co-Chair \newline 
+(University of Leicester, United Kingdom)}
+\item{Erik Fredericks, Program Co-Chair \newline 
+    (Oakland University, MI, USA)}
+\item{Xavier Devroey, Competition Chair \newline
+(TU Delft, The Netherlands)}
+\end{itemize}
+
+\smallskip\noindent\textbf{Important Dates}
+\begin{itemize}
+\setlength{\itemsep}{1pt}
+  \setlength{\parskip}{0pt}
+  \setlength{\parsep}{0pt}
+\item{Paper Submission Deadline: January 22, 2020}
+\item{Competition Report Deadline: February 15, 2020}
+\item{Author Notification: February 25, 2020}
+\item{Camera-Ready: March 16, 2020}
+\item{Date of Workshop: May 24, 25, or 26, 2020 (TBC)}
+\end{itemize}
+
+\smallskip\noindent\textbf{Call for Papers}
+
+\noindent Researchers and practitioners are invited to submit:
+\begin{itemize}
+\setlength{\itemsep}{1pt}
+  \setlength{\parskip}{0pt}
+  \setlength{\parsep}{0pt}
+\item \textbf{Full papers} (maximum of 8 pages, including references)
+  Original research in SBST, either empirical, theoretical, or
+  showing practical experience of using SBST techniques and/or SBST
+  tools.
+  \item \textbf{Short papers} (maximum of 4 pages, including
+    references) Work that describes novel techniques, ideas and
+    positions that have yet to be fully developed; or are a discussion
+    of the importance of a recently published SBST result by another
+    author in setting a direction for the SBST community, and/or the
+    potential applicability (or not) of the result in an industrial
+    context.
+  \item \textbf{Position papers} (maximum of 2 pages, including
+    references) that analyze trends in SBST and raise issues of
+    importance. Position papers are intended to seed discussion and
+    debate at the workshop, and thus will be reviewed with respect to
+    relevance and their ability to spark discussions.
+  \item \textbf{Tool Competition entries} (maximum of 4 pages,
+    including references
+    ). We invite researchers, students, and tool
+    developers to design innovative new approaches to software test
+    generation.
+\end{itemize}
+
+\smallskip \noindent In all cases, papers should address a problem in
+the software testing/verification/validation domain or combine
+elements of those domains with other concerns in the software
+engineering lifecycle. Examples of problems in the software
+testing/verification/validation domain include (but are not limited
+to) generating testing data, prioritizing test cases, constructing
+test oracles, minimizing test suites, verifying software models,
+testing service-orientated architectures, constructing test suites for
+interaction testing, SBST for artificial intelligence,
+and validating real-time properties.
+
+\smallskip \noindent The solution should apply a metaheuristic search
+strategy such as (but not limited to) random search, local search
+(e.g. hill climbing, simulated annealing, and tabu search),
+evolutionary algorithms (e.g. genetic algorithms, evolution
+strategies, and genetic programming), ant colony optimization, and
+particle swarm optimization.
+
+\smallskip\noindent\textbf{Submission Format}
+\noindent All submissions must conform to the ICSE 2020 formatting and
+submission instructions
+(\url{https://conf.researchr.org/track/icse-2020/icse-2020-papers#Call-for-Papers}). All
+%(\url{https://2019.icse-conferences.org/track/icse-2019-Technical-Papers#Call-for-Papers}). All
+submissions must be anonymized, in PDF format and should be performed
+electronically through EasyChair.
+
+%\begin{center}
+\smallskip \noindent \textbf{Workshop:} \url{https://sbst20.github.io}\\
+\textbf{EasyChair:} \url{https://easychair.org/conferences/?conf=sbst2020}\\
+\textbf{Tool Competition:} \url{https://sbst20.github.io/competition}\\
+\textbf{Twitter:} \url{https://twitter.com/sbstworkshop}
+%\end{center}
+
+%\balancecolumns % GM June 2007
+% That's all folks!
+\end{document}
