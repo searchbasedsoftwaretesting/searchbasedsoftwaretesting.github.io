@@ -2,3 +2,7 @@
 	path = 2019/website/public
 	url = git@github.com:sbst19/sbst19.github.io.git
 	branch = master
+[submodule "2020/website/public"]
+	path = 2020/website/public
+	url = git@github.com:sbst20/sbst20.github.io.git
+	branch = master
