@@ -71,3 +71,25 @@
 a {
     color: #137897;
 }
+
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+.subtitle {
+    font-weight: 500 !important;
+    font-size: 2.5em !important;
+}
+
+.subsection {
+    font-weight: 500 !important;
+    font-size: 1.5em !important;
+}
+
+.h2 {
+    font-size: 1.57em !important;
+    line-height: 1.4em;
+    margin-bottom: 15px;
+    font-weight: 400 !important;
+}
