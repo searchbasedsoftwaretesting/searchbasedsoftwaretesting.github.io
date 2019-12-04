@@ -5,5 +5,5 @@
 
 [submodule "2020/website/public"]
 	path = 2020/website/public
-	url = git@github.com:sbst20/sbst20.github.io.git
+	url = https://github.com/sbst20/sbst20.github.io.git
 	branch = master
