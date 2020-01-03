@@ -35,6 +35,7 @@ other aspects of the software engineering lifecycle.</p>
                         <div class="col-md-4">
                             <h4  class="subsection">Important Dates</h4>
 			    <p>Adhering to <a href="https://conf.researchr.org/track/icse-2020/icse-2020-Workshops">ICSE'20 workshop dates</a> (<a href="https://www.timeanddate.com/time/zones/aoe">AOE</a>):</p>
+          <p><a href="/SBST20-Flyer.pdf">Printable Call for Papers</a></p>
                             <h6 class="text-primary">Paper Submission</h6>
 							<p>Wednesday 22 January 2020</p>
                             <h6 class="text-primary">Notification to Authors</h6><p>Tuesday 25 February 2020</p>
