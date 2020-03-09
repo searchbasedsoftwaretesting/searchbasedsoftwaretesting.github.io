@@ -19,7 +19,7 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     pre = "<i class='fa fa-bug'></i>"
     weight = 1
 [[menu.main]]
-    name = "Keynotes & Tutorial"
+    name = "Keynote & Tutorial"
     pre = "<i class='now-ui-icons ui-1_calendar-60'></i>"
     url = "/keynotes/"
     weight = 2

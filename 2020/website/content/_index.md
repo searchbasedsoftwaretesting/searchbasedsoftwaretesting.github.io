@@ -3,7 +3,7 @@ class: "landing-page"
 title: "SBST 2020"
 description:  |
               <h5>The 13th Intl. Workshop on Search-Based Software Testing</h5>
-              <h5>24 May 2020, Seoul, South Korea</h5>
+              <h5>October 2020, Seoul, South Korea</h5>
               <a href="https://www.facebook.com/sbstws/" class="btn btn-primary btn-icon btn-round"><i class="fa fa-facebook-square"></i></a><a href="https://twitter.com/sbstworkshop" class="btn btn-primary btn-icon btn-round"> <i class="fa fa-twitter"></i></a>
 
 
@@ -40,6 +40,7 @@ other aspects of the software engineering lifecycle.</p>
 							<p><strike>Wednesday 22</strike> <b style="color:red;">Friday 31 January 2020</b></p>
                             <h6 class="text-primary">Notification to Authors</h6><p>Tuesday 25 February 2020</p>
                             <h6 class="text-primary">Camera Ready Due</h6><p>Monday 16 March 2020</p>
+                            <h6 class="text-primary">Rescheduled</h6><p><b style="color:red;">ICSE'20 has been <a href="https://2020.icse-conferences.org/">rescheduled</a> to 5-11 October, 2020</b></p>
 							<h5>Submission Guidelines</h5>
 							<p>All submissions must conform to the <a href="https://conf.researchr.org/track/icse-2020/icse-2020-papers#Call-for-Papers">ICSE'20 formatting and submission instructions</a>. All submissions must be anonymized, in PDF format and should be performed electronically through EasyChair.</p>
 							<h6 class="text-primary">Submission site</h6>
