@@ -39,7 +39,7 @@ other aspects of the software engineering lifecycle.</p>
                             <h6 class="text-primary">Paper Submission</h6>
 							<p><strike>Wednesday 22</strike> <b style="color:red;">Friday 31 January 2020</b></p>
                             <h6 class="text-primary">Notification to Authors</h6><p>Tuesday 25 February 2020</p>
-                            <h6 class="text-primary">Camera Ready Due</h6><p>Monday 16 March 2020</p>
+                            <h6 class="text-primary">Camera Ready Due</h6><p><strike>Monday 16 March</strike> <b style="color:red;">Tuesday 7 April 2020</b></p>
                             <h6 class="text-primary">Rescheduled</h6><p><b style="color:red;">ICSE'20 has been <a href="https://2020.icse-conferences.org/">rescheduled</a> to 5-11 October, 2020</b></p>
 							<h5>Submission Guidelines</h5>
 							<p>All submissions must conform to the <a href="https://conf.researchr.org/track/icse-2020/icse-2020-papers#Call-for-Papers">ICSE'20 formatting and submission instructions</a>. All submissions must be anonymized, in PDF format and should be performed electronically through EasyChair.</p>
