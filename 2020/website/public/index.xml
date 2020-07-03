@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SBST 2020 on Search-Based Software Testing</title>
+    <link>/</link>
+    <description>Recent content in SBST 2020 on Search-Based Software Testing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SBST 2020</title>
+      <link>/keynotes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/keynotes/</guid>
+      <description>Keynote Talk Robert Feldt Chalmers University of Technology and Blekinge Institute of Technology
+SBST for AI and beyond - from single inputs to generative models
+Abstract: Search-based software testing has made progress in the last 20 years and is now more routinely used to find desirable test inputs. However, we argue that for future progress the community need to get out from the hegemony of evolutionary search and also focus on finding models that generate data rather than on finding specific inputs.</description>
+    </item>
+    
+    <item>
+      <title>SBST 2020</title>
+      <link>/organisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/organisation/</guid>
+      <description> Co-Chairs Erik Fredericks Oakland University, USA
+    Jos&amp;eacute; Miguel Rojas University of Leicester, UK
+       Program Committee  Nazareno Aguirre, Universidad Nacional de Río Cuarto - CONICET, Argentina Giuliano Antoniol, Ecole Polytechnique de Montréal, Canada Kate Bowers, Oakland University, USA Jose Campos, University of Washington, USA Thelma E. Colanzi, State University of Maringá, Brazil	Byron DeVries, Grand Valley State University, USA Gordon Fraser, University of Passau, Germany Gregory Gay, Chalmers and the University of Gothenburg, Sweden Giovani Guizzo, University College London, UK Gregory Kapfhammer, Allegheny College, USA Phil McMinn, The University of Sheffield, UK Sebastiano Panichella, University of Zurich, Switzerland Annibale Panichella, Delft University of Technology, Netherlands Justyna Petke, University College London, UK Paolo Tonella, Università della Svizzera Italiana, Switzerland Thomas Vogel, Humboldt-Universität zu Berlin, Germany Shin Yoo, Korea Advanced Institute of Science and Technology, Republic of Korea Jie Zhang, University College London, UK     </description>
+    </item>
+    
+    <item>
+      <title>SBST 2020</title>
+      <link>/program/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/program/</guid>
+      <description> Workshop Program  To be announced.      </description>
+    </item>
+    
+    <item>
+      <title>SBST 2020</title>
+      <link>/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tools/</guid>
+      <description>Tool Competition This year as well we are pleased to announce the eighth edition of the unit testing tool competition. We invite researchers to participate in the competition with their unit test generation tool for Java. Tools will be evaluated against a benchmark with respect to code coverage and mutation score. To participate:  notify the organizers by sending an email to Xavier Devroey, Sebastiano Panichela, and Alessio Gambi (x.</description>
+    </item>
+    
+    <item>
+      <title>SBST 2020</title>
+      <link>/venue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/venue/</guid>
+      <description>Venue SBST&#39;20 will be co-located with ICSE&#39;20 in Seoul, South Korea.
+For more information on the venue, please visit https://conf.researchr.org/venue/icse-2020/icse-2020-venue.</description>
+    </item>
+    
+  </channel>
+</rss>
