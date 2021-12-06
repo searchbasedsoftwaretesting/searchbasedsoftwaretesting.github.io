@@ -1,0 +1,41 @@
+.paper-title {
+    display:inline;
+    padding-left: 0;
+    font-size:100%;
+    min-height: 10px;
+    color: #000;
+    text-align: left;
+}
+
+.paper-authors {
+    display:inline;
+    font-size:90%;
+    color: #f96332;
+    min-height: 10px;
+    text-align: left;
+}
+.paper-affiliation {
+    display:inline;
+    font-size:90%;
+    color: #{{ site.data.template.color.muted }};
+    min-height: 10px;
+    text-align: left;
+}
+
+.program-time {
+    display:inline;
+    font-size:90%;
+    color: #{{ site.data.template.color.muted }};
+    min-height: 10px;
+    text-align: left;
+}
+
+.program-table td, .program-details {
+    padding:0 0 0 7px;
+    vertical-align: left;
+    text-align: left;
+}
+
+.program-table {
+    text-align: left;
+}

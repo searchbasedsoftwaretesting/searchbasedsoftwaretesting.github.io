@@ -1,0 +1,139 @@
+CALL FOR PAPERS
+8TH INTERNATIONAL WORKSHOP ON SEARCH-BASED SOFTWARE TESTING (SBST 2015)
+
+CO-LOCATED WITH ICSE 2015, FIRENZE, ITALY
+
+http://www.searchbasedsoftwaretesting.org
+
+About the Workshop
+------------------
+Search-Based Software Testing (SBST) is the application of optimizing
+search techniques (for example, Genetic Algorithms) to solve problems
+in software testing. SBST is used to generate test data, prioritize
+test cases, minimize test suites, optimize software test oracles,
+reduce human oracle cost, verify software models, test service-orientated 
+architectures, construct test suites for interaction testing, 
+and validate real-time properties.
+
+The objectives of this workshop are to bring together researchers and
+industrial practitioners both from SBST and the wider software
+engineering community to collaborate, to share experience and provide 
+directions for future research, and to encourage the use of search techniques in
+novel aspects of software testing in combination with other aspects
+of the software engineering lifecycle.
+
+Call for Papers
+---------------
+Researchers and practitioners are invited to submit:
+
+* Full papers (maximum of 7 pages) to the workshop on original
+  research -- either empirical or theoretical -- in SBST, practical
+  experience of using SBST, or SBST tools.
+
+* Short papers (maximum of 4 pages) that describe novel techniques,
+  ideas and positions that have yet to be fully developed; or are a
+  discussion of the importance of a recently published SBST result by
+  another author in setting a direction for the SBST community,
+  and/or the potential applicability (or not) of the result in an
+  industrial context.
+
+* Position papers (maximum of 2 pages) that put analyze trends in SBST 
+  and raise issues of importance. Position papers are intended to seed
+  discussion and debate at the workshop, and will be reviewed with 
+  respect to relevance and their ability to spark discussions. 
+
+* Tool Competition entries (maximum of 4 pages). We invite researchers,
+  students, and tool developers to design innovative new approaches to 
+  software test generation. More information will be available soon on
+  the SBST website.
+
+In all cases, papers should address a problem in the software
+testing/verification/validation domain or combine elements of those
+domains with other concerns in the software engineering lifecycle.
+Examples of problems in the software testing/verification/validation
+domain include (but are not limited to) generating testing data,
+prioritizing test cases, constructing test oracles, minimizing 
+test suites, verifying software models, testing service-orientated 
+architectures, constructing test suites for interaction testing, 
+and validating real-time properties.
+
+The solution should apply a metaheuristic search strategy such as (but
+not limited to) random search, local search (e.g. hill climbing,
+simulated annealing, and tabu search), evolutionary algorithms (e.g.
+genetic algorithms, evolution strategies, and genetic programming),
+ant colony optimization, and particle swarm optimization.
+
+Important Dates
+---------------
+Paper Submission: January 30, 2015 (extended)
+Author Notification: February 18, 2015
+Camera-Ready: February 27, 2015
+Date of Workshop: May 18-19, 2015
+
+Format and Submission
+---------------------
+All papers must conform, at time of submission, to the IEEE Formatting
+Guidelines at http://2015.icse-conferences.org/submission-guidelines
+
+All submissions must be in PDF format. Make sure that you are using the 
+correct IEEE style file: the title should be typeset in 24pt font and 
+the body of the paper should be typeset in 10pt font. All submissions 
+should be performed electronically through EasyChair: 
+https://easychair.org/conferences/?conf=sbst2015
+
+Website
+-------------------
+http://www.searchbasedsoftwaretesting.org
+
+Keynote Speakers
+-------------------
+* Myra Cohen (University of Nebraska at Lincoln, USA)
+* Massimiliano Di Penta (University of Sannio, Italy)
+
+Workshop Organizers
+-------------------
+* Gregory Gay (University of Minnesota, USA)
+* Guiliano Antoniol (Polytechnique Montreal, Canada)
+
+Web Chair
+-----------------
+* Venera Arnaoudova (The University of Texas at Dallas, USA)
+
+Steering Committee
+------------------
+* Phil McMinn (University of Sheffield, UK), Chair
+
+* Wasif Afzal (Malardalen Univesity, Sweden)
+* Andrea Arcuri	(Scienta, Norway, and University of Luxembourg)
+* Myra Cohen (University of Nebraska at Lincoln, USA)
+* John Clark (University of York, UK)
+* Robert Feldt (Blekinge Institute of Technology, Sweden)
+* Mark Harman (University College London, UK)
+* Simon Poulding (Blekinge Institute of Technology, Sweden)
+* Tanja Vos (Universidad Politecnica de Valencia, Spain)
+
+Program Committee
+-----------------
+* Wasif Afzal (Malardalen Univesity, Sweden)
+* Rob Alexander (University of York, UK)
+* Andrea Arcuri	(Scienta, Norway, and University of Luxembourg)
+* Earl Barr (University College London, UK)
+* Mariano Ceccato (FBK (Fondazione Bruno Kessler) Trento, Italy)
+* Francisco Chicano (University of Málaga, Spain)
+* John Clark (University of York, UK)
+* Massimiliano Di Penta (University of Sannio, Italy)
+* Robert Feldt (Blekinge Institute of Technology, Sweden)
+* Gordon Fraser (University of Sheffield, UK)
+* Mark Harman (University College London, UK)
+* Gregory Kapfhammer (Allegheny College, USA)
+* Zheng Li (Beijing University of Chemical Technology, China)
+* Phil McMinn (University of Sheffield, UK)
+* Changhai Nie (Nanjing University, China)
+* Justyna Petke (University College London, UK)
+* Simon Poulding (Blekinge Institute of Technology, Sweden)
+* Marc Roper (University of Strathclyde, UK)
+* Gursaran Srivastava (Dayalbagh Educational Institute, India)
+* Tanja Vos (Universidad Politecnica de Valencia, Spain)
+* David White (University of Glasgow, UK)
+* Shin Yoo (University College London, UK)
+* Andreas Zeller (Saarland University, Germany)
