@@ -1,0 +1,29 @@
+- name: Shaukat Ali
+  webpage: https://www.simula.no/people/shaukat
+  institution: Simula Research Laboratory, Norway
+  pic: /img/shaukat.jpg
+
+- name: Aitor Arrieta
+  webpage: https://aitorarrietamarcos.github.io/
+  institution: University of Mondragon, Spain
+  pic: /img/aitor.jpg
+
+- name: Lionel Briand
+  webpage: https://www.lbriand.info/
+  institution: Nanda Laboratory, EECS Department, University of Ottawa, and others
+  pic: /img/briand.jpg
+
+- name: Jane Cleland-Huang
+  webpage: https://engineering.nd.edu/faculty/jane-cleland-huang/
+  institution: University of Notre Dame, USA
+  pic: /img/jane.jpg
+
+- name: Annibale Panichella
+  webpage: https://apanichella.github.io/
+  institution: Delft University of Technology, Netherlands
+  pic: /img/apanichella.jpg
+
+- name: Mohammad Reza Mousavi
+  webpage: https://www.nms.kcl.ac.uk/mohammad.mousavi/
+  institution: King's College London, United Kingdom
+  pic: /img/mohammad.jpg

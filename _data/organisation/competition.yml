@@ -1,0 +1,54 @@
+- name: Vincenzo Riccio
+  webpage: https://p1ndsvin.github.io/
+  institution: Università della Svizzera Italiana, Switzerland
+  pic: /img/vincenzo.png
+
+- name: Valerio Terragni
+  webpage: https://valerio-terragni.github.io/
+  institution: The University of Auckland, New Zealand
+  pic: /img/valerio.jpg
+
+- name: Gunel Jahangirova
+  webpage: https://sites.google.com/view/guneljahangirova
+  institution: King's College London, United Kingdom
+  pic: /img/gunel.jpg
+
+- name: Abhishek Arya
+  webpage: https://github.com/inferno-chromium
+  institution: Google, USA
+  pic: /img/abhishek.jfif
+  
+- name: Marcel Böhme
+  webpage: https://mboehme.github.io/
+  institution: Max Planck Institute for Security and Privacy, Germany
+  pic: /img/marcel.jpg
+
+- name: Matteo Biagiola
+  webpage: https://scholar.google.com/citations?user=1mn0tisAAAAJ&hl=en
+  institution: Università della Svizzera Italiana, Switzerland
+  pic: /img/biagiola.jpg
+
+- name: Stefan Klikovits
+  webpage: https://klikovits.net/
+  institution: National institute of Informatics, Japan
+  pic: /img/stefan.jfif
+
+- name: Jarkko Peltomäki
+  webpage: http://www.turambar.org/jarkko/
+  institution: Åbo Akademi, Finland
+  pic: /img/jarko.jpg
+
+- name: Oliver Chang
+  webpage: https://github.com/oliverchang
+  institution: Google, Australia
+  pic: /img/oliver.jfif
+
+- name: Dongge Liu
+  webpage: https://github.com/Alan32Liu
+  institution: Google, Australia
+  pic: /img/dongge.jfif
+
+- name: Jonathan Metzman
+  webpage: https://github.com/jonathanmetzman
+  institution: Google, USA
+  pic: /img/jonathan.jpg

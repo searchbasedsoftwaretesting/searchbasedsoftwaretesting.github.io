@@ -1,0 +1,50 @@
+.schedule {
+    width: auto;
+    margin: auto;
+    padding-right: 1cm;
+    padding-left: 1cm;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: relative;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #ccc;
+    font-size: 11pt;
+}
+
+.schedule .time {
+    text-align: right;
+    width: 4cm;
+    padding-right: 5px;
+    vertical-align: top;
+    font-weight: bold;
+}
+
+.schedule .session {
+    text-align: left;
+    width: auto;
+    color: #6a4ee7;
+    padding-left: 5px;
+    font-weight: bold;
+}
+
+.schedule .sub-session {
+    text-align: left;
+    width: auto;
+    padding-left: 5px;
+    font-size: 90%;
+}
+
+.schedule .sub-time {
+    text-align: right;
+    width: 4cm;
+    padding-right: 5px;
+    vertical-align: top;
+    font-size: 90%;
+}
+
+.schedule .session .sub-title {
+    font-weight: normal;
+    color: #0c041a;
+    font-size: 90%;
+}

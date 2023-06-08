@@ -1,0 +1,8 @@
+<div class="col-md-4">
+    <div class="team-player">
+        <img src="{% if member.pic %}{{member.pic}}{% else %}/img/default-avatar.png{% endif %}" alt="Thumbnail Image" class="rounded-circle img-fluid img-raised profile-picture">
+        <h4>{{member.name}}</h4>
+        <p class="category text-primary">{{member.institution}}</p>
+        <a href="{{member.webpage}}" target="_blank" class="btn btn-primary btn-icon btn-round"><i class="fa fa-id-card-o"></i></a>
+    </div>
+</div>

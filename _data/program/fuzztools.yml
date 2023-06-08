@@ -1,0 +1,25 @@
+- title: AFLrustrust - A LibAFL-based AFL++ prototype
+  authors: Andrea	Fioraldi, Dominik	Maier, Dongjia	Zhang, Addison	Crump
+  
+- title: AFLSmart++ - Smarter Greybox Fuzzing
+  authors: Van-Thuan Pham
+  
+- title: AFL+++ - AFL++ with Token-Level Fuzzing
+  authors: Marc	Heuse
+
+- title: LearnPerfFuzz - Generating Pathological Inputs using Greybox Fuzzing with Knowledge Enhancement
+  authors: Somiha	Tasnim
+
+- title: HasteFuzz - Full-Speed Fuzzing
+  authors: Zhengjie	Du, Yuekang	Li
+
+- title: LibAFL_libFuzzer - LibFuzzer on top of LibAFL
+  authors: Addison Crump, Andrea	Fioraldi, Dominik	Maier, Dongjia	Zhang
+
+- title: R-Fuzz at SBFT'2023
+  authors: Ju	Chen, Chengyu	Song, Heng Yin
+
+- title: PASTIS - A Collaborative Approach to Combine Heterogeneous Software Testing Techniques
+  authors: Robin David, Richard Abou Chaaya, Christian 	Heitman
+  slides: /share/pastis.pdf
+  video: https://www.youtube.com/watch?v=EF13eiidhA0&t=13295s

@@ -1,0 +1,16 @@
+{% for paper in papers %}
+<tr>
+    <td>
+        <b class="text-left text-primary">{{paper.title}}</b>
+        <br />
+        <span class="text-left text-secondary">{{paper.authors}}</span>
+        <br />
+        {% if paper.video %}
+            <a href="{{paper.video}}" target="_blank" class="fa fa-youtube"></a>
+        {% endif %}
+        {% if paper.slides %}
+            <a href="{{paper.slides}}" target="_blank" class="fa fa-person-chalkboard"></a>
+        {% endif %}
+    </td>
+</tr>
+{% endfor %}

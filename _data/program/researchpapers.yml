@@ -1,0 +1,21 @@
+
+- title: PASTIS - A Collaborative Approach to Combine Heterogeneous Software Testing Techniques
+  authors: Robin David, Richard Abou Chaaya, Christian Heitman
+  slides: /share/pastis.pdf
+  video: https://www.youtube.com/watch?v=EF13eiidhA0&t=13295s
+
+- title: Continuous Fuzzing - A Study of the Effectiveness and Scalability of Fuzzing in CI/CD Pipelines
+  authors: Thijs Klooster, Fatih	Turkmen, Gerben	Broenink, Ruben	Ten Hove, Marcel	Bohme
+  video: https://www.youtube.com/watch?v=EF13eiidhA0&t=14211s
+
+- title: Grammar-Based Evolutionary Fuzzing for JSON-RPC APIs
+  authors: Lisette Veldkamp, Mitchell	Olsthoorn, Annibale	Panichella
+  video: https://www.youtube.com/watch?v=EF13eiidhA0&t=15017s
+
+- title: On the Strengths of Pure Evolutionary Algorithms in Generating Adversarial Examples
+  authors: Antony	Bartlett, Cynthia C. S.	Liem, Annibale	Panichella
+  video: https://www.youtube.com/watch?v=EF13eiidhA0&t=8241s
+
+- title: Automatic Generation of Smell-free Unit Tests
+  authors: João	Afonso, José Campos
+  video: https://youtu.be/EF13eiidhA0?t=9074
